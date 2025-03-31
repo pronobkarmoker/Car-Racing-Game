@@ -19,9 +19,9 @@ A simple **2D Car Racing Game** built using **Python and Pygame**. The player mu
 ![Gameplay GIF](https://github.com/pronobkarmoker/Car-Racing-Game/blob/main/car.gif)
 
 ## **⚙️ Installation**  
-1️⃣ Install **Python** (if not already installed).  
-2️⃣ Install **Pygame** by running. 
-3️⃣ run the **code**
+1️⃣ Install **Python** (if not already installed).   
+2️⃣ Install **Pygame** by running.   
+3️⃣ run the **code**   
    ```sh
    pip install pygame
    python car.py
