@@ -20,7 +20,7 @@ A simple **2D Car Racing Game** built using **Python and Pygame**. The player mu
 
 ## **⚙️ Installation**  
 1️⃣ Install **Python** (if not already installed).  
-2️⃣ Install **Pygame** by running: 
+2️⃣ Install **Pygame** by running. 
 3️⃣ run the **code**
    ```sh
    pip install pygame
