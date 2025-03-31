@@ -13,7 +13,10 @@ A simple **2D Car Racing Game** built using **Python and Pygame**. The player mu
 1️⃣ Use **Left/Right Arrow Keys** to move the car.  
 2️⃣ Avoid hitting obstacles.  
 3️⃣ Earn **points** for every obstacle avoided.  
-4️⃣ If you **crash**, the game is over!  
+4️⃣ If you **crash**, the game is over! 
+
+## 🎮 GAME VIEW 
+![Gameplay GIF](https://github.com/pronobkarmoker/Car-Racing-Game/blob/main/car.gif)
 
 ## **⚙️ Installation**  
 1️⃣ Install **Python** (if not already installed).  
